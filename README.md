@@ -1,5 +1,5 @@
 # MaxOPs
-<b>Project Description</b>
+`Project Description`
 
 The maximum limit of Unsigned Long Int in C/C++ is 18446744073709551615, a 20  digit number. While languages like C++/Java support classes of BigIntegers (100 digit numbers). C by default has no such support. This project aims to bring that support to the C language along with basic arithmetic operations like Comparison, Addition, Subtraction, and Multiplication along with applications such as Factorial, Fibonacci, etc.
 
@@ -16,18 +16,18 @@ The maximum limit of Unsigned Long Int in C/C++ is 18446744073709551615, a 20  d
 
 
 
-Project Language(s)
+`Project Language(s)`
 
 C
 
 
 
-Prerequisite(s)
+`Prerequisite(s)`
 
 Arrays, Basic Mathematics, Basic programming experience in C
 
 
-Objective
+`Objective`
 
 
 Add support for Big Integers (numbers greater than 18446744073709551615) in C along with basic mathematical operations and functions.
@@ -36,7 +36,7 @@ Add support for Big Integers (numbers greater than 18446744073709551615) in C al
 
 
 
-Project Context
+`Project Context`
 
 
 Languages like C++/Java support classes like allowing Bigintegers developers to utilize numbers with up to 100 digits. MAXOP aims to provide support up to 1000 digits in the C language along with basic mathematical operations (comparison, addition, subtraction, multiplication) and some mathematical functions (Fibonacci series, factorial). 
@@ -45,7 +45,7 @@ Languages like C++/Java support classes like allowing Bigintegers developers to 
 
 
 
-Applications
+```Applications```
 
 
 • Calculate factorial of very large integers
